@@ -1,0 +1,38 @@
+[
+    {
+      "fname": "Luke",
+      "lname": "Metcalfe",
+      "gender": "Male",
+      "age": "20",
+      "city": "CBS"
+    },
+    {
+      "fname": "John",
+      "lname": "Doe",
+      "gender": "male",
+      "age": "31",
+      "city": "St. John's"
+    },
+    {
+      "fname": "Jane",
+      "lname": "Doe",
+      "gender": "female",
+      "age": "25",
+      "city": "Mount Pearl"
+    },
+    {
+      "fname": "John",
+      "lname": "Smith",
+      "gender": "non-binary",
+      "age": "35",
+      "city": "Paradise"
+    },
+    {
+        "fname": "Sally",
+        "lname": "Smith",
+        "gender": "Undisclosed",
+        "age": "40",
+        "city": "Holyrood"
+
+    }
+  ]
